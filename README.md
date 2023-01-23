@@ -7,7 +7,7 @@ Check out the following events and participate.
 
 # Current events
 - [Hashnode blogging challenge - every month](./hashnode/README.md)
-
+- I am op 
 # Past events
 - [Battlesnake December tournament - Dec 2022](./battlesnake/README.md)
 - [Stream hackathon - Dec 2022](https://wemakedevs-stream.devpost.com/resources)
